@@ -1,0 +1,12 @@
+{
+  "name": "Little Doses",
+  "short_name": "Little Doses",
+  "description": "A device-local childhood vaccine tracker.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff7ef",
+  "theme_color": "#fff7ef",
+  "categories": ["health", "medical", "parenting"],
+  "orientation": "portrait-primary"
+}
